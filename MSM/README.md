@@ -14,9 +14,16 @@ This repository contains the following sections
     -	Raw data for 92 stocks containing Fmsy data
     -	Raw data for 10 stocks from DFO, for which Fmsy data are unavailable
 
-2: Data for the 2026 PLOS One paper (doi TBD)
+4) Data for the 2026 PLOS One paper (doi TBD)
     - Raw data for the 77 stocks used in the analysis
     - The GitHub repository with the code and output for this paper is https://github.com/Dave-Keith/LTR
+    
+5) Data for the 20XX Multispecies modeo paper (doi TBD)
+  - Raw data for the stocks used in the analysis
+  - The GitHub repository with the code and output for this paper is https://github.com/Dave-Keith/Multispecies_model
+  - Notes for this analysis
+    - Norway Pout assessment is a quarterly assessment, data was used from Q3 as this quarter included the recruits. The natural mortality for the 4 quarters was added to get an annual estimate
+    - Sprat assessment is a quarterly assessment, data was used from Q2 in this analysis. The natural mortality for the 4 quarters was added to get an annual estimate. The fishing mortality by age was not provided
     
 **A WORD OF CAUTION**
 Only stocks that were used in the analyses were QaQc’d. Authors are not responsible for the misrepresentation of the data. Users are encouraged to directly consult the accompanying stock assessment PDF files for detailed stock-specific data and source information.  
